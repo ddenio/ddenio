@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Derin DeNio</h1>
 <h3 align="center">A passionate Software Developer from New Mexico</h3>
 
-- 🔭 I’m currently working on [videoGameCollectionOOP](https://github.com/ddenio/videoGameCollectionOOP)
+- 🔭 I’m currently working on [asyncAwaitPractice](https://github.com/ddenio/asyncPractice)
 
-- 🌱 I’m currently learning **OOP, React.js**
+- 🌱 I’m currently learning **OOP, React.js, Node.js**
 
 - 👯 I’m looking to collaborate on **Any React/Next.js Project!**
 
