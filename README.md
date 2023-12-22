@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Derin DeNio</h1>
 <h3 align="center">A passionate Software Developer from New Mexico</h3>
 
-- 🔭 I’m currently working on [asyncAwaitPractice](https://github.com/ddenio/asyncPractice)
+- 🔭 I’m currently working on [nodeJSSimpleServer](https://github.com/ddenio/nodeJsSimpleServer)
 
 - 🌱 I’m currently learning **OOP, React.js, Node.js**
 
