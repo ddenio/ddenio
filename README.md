@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [nodeJSSimpleServer](https://github.com/ddenio/nodeJsSimpleServer)
 
-- 🌱 I’m currently learning **OOP, React.js, Node.js**
+- 🌱 I’m currently learning **OOP, React.js, Node.js/Express**
 
-- 👯 I’m looking to collaborate on **Any React/Next.js Project!**
+- 👯 I’m looking to collaborate on **Any React/Nodejs Project!**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ddenio?tab=repositories](https://github.com/ddenio?tab=repositories)
 
