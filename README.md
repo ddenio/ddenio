@@ -26,4 +26,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ddenio&show_icons=true&locale=en&layout=compact" alt="ddenio" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ddenio)](https://git.io/streak-stats)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ddenio)]
