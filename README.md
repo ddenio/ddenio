@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Found Sound Top 40](https://github.com/ddenio/foundSoundTop40.git)
 
-- 🌱 I’m currently learning **OOP, React.js, Node.js/Express**
+- 🌱 I’m currently learning **Ruby/Ruby on Rails!**
 
-- 👯 I’m looking to collaborate on **Any React/Nodejs Project!**
+- 👯 I’m looking to collaborate on **Any React/Nodejs/Nextjs/Ruby/RubyOnRails Project!**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ddenio?tab=repositories](https://github.com/ddenio?tab=repositories)
 
