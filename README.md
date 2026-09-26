@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Derin DeNio</h1>
 <h3 align="center">A passionate Software Developer from New Mexico</h3>
 
-- 🔭 I’m currently working on [Found Sound Top 40](https://github.com/ddenio/foundSoundTop40.git)
+- 🔭 I’m currently working on [Derin's Blog Spot](https://github.com/ddenio/derinBlogSpot)
 
-- 🌱 I’m currently learning **Ruby/Ruby on Rails!**
+- 🌱 I’m currently learning **TypeScript, Next.JS, Prisma**
 
 - 👯 I’m looking to collaborate on **Any React/Nodejs/Nextjs/Ruby/RubyOnRails Project!**
 
